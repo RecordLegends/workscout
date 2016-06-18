@@ -49,10 +49,12 @@
 
                         </li>
 
-                        <li><a href="#">Browse Jobs</a>
+                        <li><a href="browse.php">Browse Jobs</a>
                             <ul>
                                 <li><a href="browse-jobs.php">By Job Posts</a></li>
                                 <li><a href="browse-categories.php">By Categories</a></li>
+                                <li><a href="browse-categories.php">By Location</a></li>
+                                <li><a href="browse-categories.php">By Company</a></li>
 
                             </ul>
                         </li>

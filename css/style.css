@@ -59,7 +59,7 @@ header {
 	float: left;
 }
 
-#logo img { margin-top: 10px; }
+#logo img { margin-top: 10px;margin-bottom: 10px; }
 
 
 /* Full-Width Header Styles */
@@ -349,7 +349,7 @@ ul li ul a.sf-with-ul:after {
 
 	ul.float-right li {
 		display: inline-block;
-		widows:;
+
 	}
 
 	#logo {
@@ -358,7 +358,7 @@ ul li ul a.sf-with-ul:after {
 		box-sizing: border-box;
 		display: inline-block;
 		border-bottom: 1px solid #e0e0e0;
-		padding-bottom: 27px;
+		padding-bottom: 30px;
 	}
 }
 
@@ -1067,11 +1067,12 @@ table.manage-table td.action a:hover { color: #505050; }
 
 .categories-group ul li {
 	padding: 4px 0;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 26px;
+    font-weight: 400;
 }
 
-.categories-group h4 { font-size: 22px; padding-right: 20px; }
+.categories-group h4 { font-size: 27px; padding-right: 20px; }
 
 
 /* ---------------------------------- */
@@ -2834,7 +2835,7 @@ color: #ffffff;
 .resumes-list .resumes-list-content,
 .job-list .job-list-content {
 	display: block;
-	margin-left: 125px;
+	margin-left: 100px;
 	position: relative;
 }
 

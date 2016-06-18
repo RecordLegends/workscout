@@ -72,7 +72,8 @@
 <script src="scripts/stacktable.js"></script>
 
 
-
+</body>
+</html>
 
 <!-- Style Switcher
 ================================================== -->

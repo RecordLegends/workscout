@@ -207,6 +207,10 @@ include "header.php";
             </div>
         </div>
 
+
+        <div class="adverts">
+            <h3>Adverts stay here or shit like that</h3>
+        </div>
     </div>
 </div>
 
@@ -221,7 +225,7 @@ include "header.php";
         <div class="sixteen columns">Find Your Dream Job Now<a href="my-account.html">Get Started</a></div>
     </div>
 </div>
-
+<!-- Clients -->
 <div id="clients">
     <h3 class="centered-headline">Clients Who Have Trusted Us <span>The list of clients who have put their trust in us includes:</span></h3>
     <div class="clearfix"></div>
